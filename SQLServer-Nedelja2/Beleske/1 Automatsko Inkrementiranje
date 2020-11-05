@@ -1,0 +1,8 @@
+
+
+Automatsko inkrementiranje:
+Column Properties -> Identity Specification -> (Is Identity) -> Yes
+
+*Identity Increment - za koliko uvecava
+Identity Seed      - koja je pocetna vrednost
+

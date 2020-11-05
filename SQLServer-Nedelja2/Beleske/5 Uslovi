@@ -1,0 +1,10 @@
+
+
+Uslovi:
+
+1. Desni klik na zeljenu kolonu
+2. Check Constraint
+3. Add
+4. Expression
+(npr. grad LIKE 'N%' OR grad LIKE 'B%')
+5. (Name)

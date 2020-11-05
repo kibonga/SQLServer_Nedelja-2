@@ -1,0 +1,13 @@
+
+
+Kreiranje Stranog Kljuca:
+1. Desni Klik --> Relationships
+2. Add
+3. Tables And Columns Specification
+4. Primary Key Tables:
+    4.1. Odabere se tabela PK
+    4.2. Odabere se kolona PK
+5. Foreign key table
+    5.1. Odabere se tabela FK
+    5.2. Odabere se kolona FK
+6.(Name)

@@ -1,0 +1,14 @@
+
+
+Genrisanje Skripte:
+
+1. Desni klik na bazu(ne na tabelu)
+2. Tasks
+3. Generate Scripts(na sredini)
+4. Next
+5. Script entire database and all database obj
+6. Advanced --> Types of data to script(Schema and Data)
+7. Save to new Query Window
+
+
+CTRL + a da se prekopira sav sadrzaj skripte i tako se predaje kolokvijum

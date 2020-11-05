@@ -1,0 +1,13 @@
+
+
+Sablon PK:
+
+1. Pri kreiranju tabele Data Type --> char(3) ako je sablon PK 'AXX'
+(ovde nema potrebe stavljati nvarchar(10) ili nesto sl.)
+2. Allow Null --> unchecked
+3. Desni klik
+4. Check Constraints
+5. Add
+6. Expression --> autor_id LIKE 'A[0-9][0-9]'
+                                'AXX' (X predstavljaju cifre od 0-9)
+7. (Name)

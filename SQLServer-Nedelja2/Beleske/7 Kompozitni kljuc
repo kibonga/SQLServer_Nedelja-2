@@ -1,0 +1,11 @@
+
+
+Kompozitni kljuc
+Primarni kljuc koji se sastoji iz vise kolona
+Nijedna kolona ne sme imati null vrednosti 
+(Allow Null - unchecked)
+
+
+1. Podesen je prvi PK
+2. Drzi se CTRL + desni klik + Add PK
+(Tako se dodaje novi PK u slkopu Kompozitnog kljuca)

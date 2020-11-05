@@ -1,0 +1,11 @@
+
+
+Jedinstvene Vrednosti u Koloni
+
+1. Desni klik na kolonu
+2. Indexes/Keys
+3. Add (zato sto po defaultu samo PK ima uslov jedinstvenosti)
+4. Columns --> odabere se zeljena kolona
+5. Is Unique --> Yes
+6. Type --> Unique Key
+7. (Name) --> naziv_jedinstvenosti
